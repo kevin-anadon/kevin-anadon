@@ -1,11 +1,9 @@
 ## 😁 About me
-<hr>
 
 <p> I am a software developer focused in backend development, also studying computer science based in Uruguay.<br>
 Enthusiastic and hard working in IT in constant training.</p>
 
 ## 💻 Tech stack
-<hr>
 
 ### Languages
 
