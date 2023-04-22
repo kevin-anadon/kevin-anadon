@@ -1,16 +1,31 @@
-### Hi there 👋
+### 😁 About me
+<hr>
 
-<!--
-**kevin-anadon/kevin-anadon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> I am a software developer focused in backend development, also studying computer science based in Uruguay.<br>
+Enthusiastic and hard working in IT in constant training.</p>
 
-Here are some ideas to get you started:
+### 💻 Tech stack
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Languages
+
+- Javascript
+- Java
+- VB
+- C++
+- SQL
+
+#### Frameworks
+
+- Express
+- .NET Framework
+
+#### Databases
+
+###### Relational
+- MySQL
+- MariaDB
+- SqLite
+
+###### Non-Relational
+- MongoDB
