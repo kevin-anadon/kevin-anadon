@@ -1,13 +1,13 @@
-### 😁 About me
+## 😁 About me
 <hr>
 
 <p> I am a software developer focused in backend development, also studying computer science based in Uruguay.<br>
 Enthusiastic and hard working in IT in constant training.</p>
 
-### 💻 Tech stack
+## 💻 Tech stack
 <hr>
 
-#### Languages
+### Languages
 
 - Javascript
 - Java
@@ -15,17 +15,17 @@ Enthusiastic and hard working in IT in constant training.</p>
 - C++
 - SQL
 
-#### Frameworks
+### Frameworks
 
 - Express
 - .NET Framework
 
-#### Databases
+### Databases
 
-###### Relational
+##### Relational
 - MySQL
 - MariaDB
 - SqLite
 
-###### Non-Relational
+##### Non-Relational
 - MongoDB
