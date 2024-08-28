@@ -21,7 +21,7 @@
 ## 💻 Tech stack
 
 ### Cloud
-- Amazon Web Services
+- Amazon Web Services (AWS Cloud Practitioner certification)
 - IBM Cloud
 
 ### DevOps  
