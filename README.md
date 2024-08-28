@@ -69,5 +69,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin-anadon&show_icons=true&locale=en&layout=compact" alt="kevin-anadon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevin-anadon&show_icons=true&locale=en" alt="kevin-anadon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-anadon&" alt="kevin-anadon" /></p>
