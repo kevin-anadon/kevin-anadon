@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Anadon</h1>
-<h3 align="center">I am a software developer focused in backend development with DevOps/Cloud experience, also studying computer science based in Uruguay. 
+<h3 align="center">I am a software developer focused in backend development with DevOps/Cloud experience based in Uruguay, also studying computer science. 
   Enthusiastic and hard working in IT in constant training.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin-anadon&label=Profile%20views&color=0e75b6&style=flat" alt="kevin-anadon" /> </p>
